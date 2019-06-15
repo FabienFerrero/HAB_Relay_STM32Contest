@@ -9,6 +9,8 @@ Sereral LoRa Node were embedded in the nacelle.
  * Patch : PCB board with RFM95, bluePill and connected to a patch antenna
  * Relay : B-L072Z-LRWAN1 connected to a dipole antenna
  
+ <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/STM32.jpg">
+ 
  GW_Name is the file with all GW reached for each packet
  
  You will also find the sensor results for Dipole Node which was using a BME280 sensor (T°, Humidity and Pressure).
