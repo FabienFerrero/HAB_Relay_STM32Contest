@@ -31,6 +31,10 @@ I'm still trying to confirmed the GPS position of this GW.
 The balloon finally land close to gap
 <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/map.jpg">
 
+Line of Sight versus Altitude considering earth curvature
+
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/LOS_vs_Altitudejpg">
+
 
 
 
