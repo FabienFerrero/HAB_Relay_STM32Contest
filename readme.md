@@ -7,7 +7,7 @@
 
 The Repository contain the Code and Results of the STM32inthesky experiment which was performed on the 11/06/19.
 
-4 school participated to this event with 4 different High Altitude Balloon launched from Rousset, France
+In this event with 4 different High Altitude Balloons were launched from Rousset, France
 https://blog.st.com/stm32-in-the-sky/
 
 Polytech'Nice was participating to the contest and design a nacelle including several LoRa nodes connected on TheThingsNetwork (https://www.thethingsnetwork.org/).
