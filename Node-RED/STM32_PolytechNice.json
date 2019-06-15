@@ -1,0 +1,1 @@
+[{"id":"3dab3efb.e5d952","type":"file in","z":"a7d46831.3b8ce8","name":"Read ttnlog.txt","filename":"C:\\ads\\test.csv","format":"utf8","chunk":false,"sendError":false,"encoding":"utf8","x":643,"y":1135,"wires":[["a827d9e4.172008"]]}]
