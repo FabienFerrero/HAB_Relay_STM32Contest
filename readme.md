@@ -1,1 +1,26 @@
-Node Red code for HAB STM32 contest
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/STM32-in-the-sky.png">
+
+
+#HAB_Relay_STM32Contest
+Last edition : 15/06/2019
+Author: Fabien Ferrero
+
+The Repository contain the Code and Results of the STM32inthesky experiment which was performed on the 11/06/19.
+
+4 school participated to this event with 4 different High Altitude Balloon launched from Rousset, France
+https://blog.st.com/stm32-in-the-sky/
+
+Polytech'Nice was participating to the contest and design a nacelle including several LoRa nodes.
+As you can see in the picture, two nodes were outside the nacelle, so we try to protect the battery from the cold temperature as much as possible
+
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/Nacelle.png">
+
+The Polytech'Nice balloon was lauched at 3PM. It reach an altitude of 31km.
+
+
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/launch.jpg">
+
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/vue_ballon2.png">
+
+
+
