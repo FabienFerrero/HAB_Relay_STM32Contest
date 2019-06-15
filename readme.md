@@ -2,8 +2,8 @@
 
 
 # HAB_Relay_STM32Contest
-Last edition : 15/06/2019
-Author: Fabien Ferrero
+* Last edition : 15/06/2019
+* Author: Fabien Ferrero
 
 The Repository contain the Code and Results of the STM32inthesky experiment which was performed on the 11/06/19.
 
