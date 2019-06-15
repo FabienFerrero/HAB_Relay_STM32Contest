@@ -1,7 +1,7 @@
 <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/STM32-in-the-sky.png">
 
 
-#HAB_Relay_STM32Contest
+# HAB_Relay_STM32Contest
 Last edition : 15/06/2019
 Author: Fabien Ferrero
 
