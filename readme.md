@@ -33,7 +33,7 @@ The balloon finally land close to gap
 
 Line of Sight versus Altitude considering earth curvature
 
-<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/LOS_vs_Altitudejpg">
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/LOS_vs_Altitude.jpg">
 
 
 
