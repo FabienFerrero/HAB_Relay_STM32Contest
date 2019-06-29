@@ -24,7 +24,7 @@ The longest gateway detected was in Udine in Italy. The total distance was 642km
 
 <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/vue_ballon2.png">
 
-<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/dipole2_mini.jpg">
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/dipole2_mini.png">
 
 The balloon finally land close to gap
 <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/map.jpg">
