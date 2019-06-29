@@ -20,13 +20,11 @@ As you can see in the picture, two nodes were outside the nacelle, so we try to 
 The Polytech'Nice balloon was lauched at 3PM. It reach an altitude of 31km.
 
 From this altitude, the balloon was able to transmit on many TTN Gateways. An average max communication distance of 600km was achieved (which correspond to the line of sight at this altitude considering earth curvature).
-The longest gateway detected was in Weiz near Graz in Austria. The total distance was 835km.
-The EUI on the gateway is : EUI-70B3D5B020030D77
-I'm still trying to confirmed the GPS position of this GW.
+The longest gateway detected was in Udine in Italy. The total distance was 642km.
 
 <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/vue_ballon2.png">
 
-<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/dipole2_2.jpg">
+<img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/dipole2_mini.jpg">
 
 The balloon finally land close to gap
 <img src="https://github.com/FabienFerrero/HAB_Relay_STM32Contest/blob/master/pictures/map.jpg">
